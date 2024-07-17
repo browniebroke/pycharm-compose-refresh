@@ -1,6 +1,6 @@
 # Pycharm Docker compose demo project
 
-Minimal project to reproduce a failure to run skeleton generator. 
+Minimal project to reproduce a failure to run skeleton generator. Youtrack ticket: https://youtrack.jetbrains.com/issue/PY-73909
 
 ## The problem
 
